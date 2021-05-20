@@ -1,4 +1,0 @@
----
-- name: printing message using debug module
-  debug:
-    msg: "Message written in debug.yml in debug role"
